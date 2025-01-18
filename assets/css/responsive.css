@@ -1,0 +1,27 @@
+@media only screen and (max-width:991px){
+    .story-section{
+        /* height: 35.125rem; */
+        height: auto;
+        padding: 3rem 0;
+    }
+    .story-section h2{
+        font-size: 2rem;
+    }
+    
+    .tesimonial-section .carousel-item .carousel-caption p{
+        padding: 0;
+        font-size: 1.1rem;
+    }
+
+}
+@media (max-width:770px) {
+    .tesimonial-section .carousel-item{
+        padding: 11rem 3.125rem; 
+    }
+}
+
+@media (max-width:380px) {
+    .tesimonial-section .carousel-item{
+        padding: 13rem 3.125rem;
+    }
+}
